@@ -57,8 +57,8 @@ I am an engineer specializing in **Deep Learning**, **Computer Vision**, and **A
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sane219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=10b981" alt="Sanket's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sane219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=10b981" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.repl.co/api?username=Sane219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=10b981&count_private=true" alt="Sanket's GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.repl.co/api/top-langs/?username=Sane219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=10b981" alt="Top Languages" />
 </div>
 
 <p align="center">
