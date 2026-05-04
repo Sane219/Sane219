@@ -3,11 +3,14 @@
   <h3>Full-Stack AI/ML Engineer & DevOps Developer</h3>
   
   <p>
+    <a href="https://sane219.github.io/sanket-chauhan-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Website-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Personal Portfolio" />
+    </a>
     <a href="https://garvintools.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-garvintools.com-01696f?style=for-the-badge&logo=globe" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Business-Garvin_Tools-0f172a?style=for-the-badge&logo=react&logoColor=white" alt="Garvin Tools" />
     </a>
     <a href="https://www.linkedin.com/in/sanket-chauhan" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>
@@ -18,24 +21,28 @@
 
 I am an engineer deeply immersed in building production-grade applications. I specialize in **Large Language Models (LLMs)**, **Computer Vision**, and **Cloud Infrastructure**. I love bridging the gap between cutting-edge AI models and consumer-friendly applications. 
 
-- 🔭 Currently building **SyntaxAgent**, an LLM-powered GitHub code review agent.
+- 🔭 Currently building **SyntaxAgent**, an autonomous LLM-powered GitHub code review agent.
 - 🌱 Actively exploring **Swift for macOS development** and **Model Quantization**.
 - 🛠️ My weapon of choice: **Docker**, **Kubernetes (Rancher)**, **React**, and **FastAPI**.
 - 📝 Hobbies: Creating novel worldbuilding magic systems and creative writing.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Repositories & Projects
 
-#### [SyntaxAgent](https://github.com/Sane219/SyntaxAgent)
-An autonomous, LLM-powered code review agent for GitHub Pull Requests. It automatically analyzes code changes, identifies architectural vulnerabilities, and generates Mermaid.js graphs to visualize PR functionality. 
+#### [🤖 ChatCV (AI Resume Builder)](#) *(Currently Building)*
+An open-source, conversational resume builder with a split-screen UI. Users chat with an AI agent on the left to describe their experience, while the right pane instantly renders an ATS-optimized, downloadable PDF in real-time.
+*Tech: Next.js, Tailwind CSS, Vercel AI SDK, Local LLMs*
+
+#### [🔍 SyntaxAgent](https://github.com/Sane219/SyntaxAgent)
+An autonomous, LLM-powered code review agent for GitHub Pull Requests. It automatically analyzes code changes, identifies architectural vulnerabilities, and generates Mermaid.js graphs to visualize PR functionality. Orchestrates GitHub PR webhooks via FastAPI/NestJS and runs inference via vLLM.
 *Tech: FastAPI, PyGithub, vLLM, Python*
 
-#### [garvintools.com](https://garvintools.com/)
-My global portfolio and project hub. I recently built `react-css-unpacker` to mirror this global infrastructure.
+#### [🌐 react-css-unpacker](https://github.com/sambhurao/react-css-unpacker)
+A React-based UI architecture modeled after the global Garvin Tools website (`garvintools.com`). Built to handle modern component styling and CSS unpacking efficiently.
 *Tech: React, Next.js, Tailwind CSS*
 
-#### AuditShark & OpenClaw (Internal/Contributions)
+#### ⚙️ AuditShark & NemoClaw (Internal/Contributions)
 - **AuditShark:** A multi-module surveillance system with plugins for safety compliance and traffic management using YOLO and Florence-2.
 - **OpenClaw/NemoClaw:** A portable desktop wrapper for local LLM inference with multi-model support (Qwen, Minimax, Gemma).
 
@@ -52,10 +59,10 @@ My global portfolio and project hub. I recently built `react-css-unpacker` to mi
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sane219&show_icons=true&theme=radical&hide_border=true" alt="Sanket's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sane219&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sane219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=10b981" alt="Sanket's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sane219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=10b981" alt="Top Languages" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sane219&color=01696f&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sane219&color=10b981&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
