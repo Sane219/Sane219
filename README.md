@@ -6,10 +6,8 @@
     <a href="https://sane219.github.io/sanket-chauhan-portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Website-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Personal Portfolio" />
     </a>
-    <a href="https://garvintools.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Business-Garvin_Tools-0f172a?style=for-the-badge&logo=react&logoColor=white" alt="Garvin Tools" />
     </a>
-    <a href="https://www.linkedin.com/in/sanket-chauhan" target="_blank">
+    <a href="[https://www.linkedin.com/in/sanket-chauhan](https://www.linkedin.com/in/sanket-chauhan-2b8511285/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
