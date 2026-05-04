@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Sanket Chauhan 👋</h1>
-  <h3>Full-Stack AI/ML Engineer & DevOps Developer</h3>
+  <h3>AI/ML Engineer • Data Pipelines • Full-Stack Developer</h3>
   
   <p>
     <a href="https://sane219.github.io/sanket-chauhan-portfolio/" target="_blank">
@@ -19,42 +19,40 @@
 
 ### 👨‍💻 About Me
 
-I am an engineer deeply immersed in building production-grade applications. I specialize in **Large Language Models (LLMs)**, **Computer Vision**, and **Cloud Infrastructure**. I love bridging the gap between cutting-edge AI models and consumer-friendly applications. 
+I am an engineer specializing in **Deep Learning**, **Computer Vision**, and **AI Agents**. I build production-grade applications that solve real-world problems—from real-time market data pipelines to autonomous code review systems. 
 
-- 🔭 Currently building **SyntaxAgent**, an autonomous LLM-powered GitHub code review agent.
-- 🌱 Actively exploring **Swift for macOS development** and **Model Quantization**.
-- 🛠️ My weapon of choice: **Docker**, **Kubernetes (Rancher)**, **React**, and **FastAPI**.
-- 📝 Hobbies: Creating novel worldbuilding magic systems and creative writing.
+- 🔭 Currently building: **SyntaxAgent** (an autonomous GitHub code review agent) and exploring **Swift for macOS development**.
+- 🛠️ Technical Focus: **Local LLMs**, **RAG Systems**, **Time-Series Forecasting (LSTMs)**, and **React/Next.js**.
+- 💡 Passionate about bridging the gap between complex ML models and intuitive user interfaces.
 
 ---
 
-### 🚀 Featured Repositories & Projects
+### 🚀 Featured Repositories
 
-#### [🤖 ChatCV (AI Resume Builder)](#) *(Currently Building)*
-An open-source, conversational resume builder with a split-screen UI. Users chat with an AI agent on the left to describe their experience, while the right pane instantly renders an ATS-optimized, downloadable PDF in real-time.
-*Tech: Next.js, Tailwind CSS, Vercel AI SDK, Local LLMs*
+#### 🤖 AI Agents & NLP
+- **[SyntaxAgent](https://github.com/Sane219/SyntaxAgent)**: A self-hosted AI code review agent. Orchestrates GitHub PR webhooks via FastAPI/NestJS and generates feedback using vLLM.
+- **[RAD-Knowledge-Assistant](https://github.com/Sane219/RAD-Knowledge-Assistant)**: A Retrieval-Augmented Generation (RAG) system built in Python to answer user queries using private document collections with minimal hallucination.
+- **[Ai-Powered-Legal-Summarizer](https://github.com/Sane219/Ai-Powered-Legal-Summarizer)**: Leverages transformer-based models to generate concise, accurate summaries of complex legal documents.
+- **[ATS-resume](https://github.com/Sane219/ATS-resume)**: An NLP-powered tool that extracts information from resumes and generates ATS-optimized versions tailored for specific job positions.
 
-#### [🔍 SyntaxAgent](https://github.com/Sane219/SyntaxAgent)
-An autonomous, LLM-powered code review agent for GitHub Pull Requests. It automatically analyzes code changes, identifies architectural vulnerabilities, and generates Mermaid.js graphs to visualize PR functionality. Orchestrates GitHub PR webhooks via FastAPI/NestJS and runs inference via vLLM.
-*Tech: FastAPI, PyGithub, vLLM, Python*
+#### 👁️ Computer Vision
+- **[sign-language-interpreter](https://github.com/Sane219/sign-language-interpreter)**: Real-time sign language interpretation using MediaPipe for hand gesture detection and a custom neural network.
+- **[NutriBot](https://github.com/Sane219/NutriBot)**: A web app that analyzes food packaging images via computer vision to determine health scores and classify diet types (vegan/vegetarian).
+- **[Dog_Breed](https://github.com/Sane219/Dog_Breed)**: An EfficientNetB3 deep learning model with transfer learning to classify 120 different dog breeds, featuring a Streamlit UI.
 
-#### [🌐 react-css-unpacker](https://github.com/sambhurao/react-css-unpacker)
-A React-based UI architecture modeled after the global Garvin Tools website (`garvintools.com`). Built to handle modern component styling and CSS unpacking efficiently.
-*Tech: React, Next.js, Tailwind CSS*
-
-#### ⚙️ AuditShark & NemoClaw (Internal/Contributions)
-- **AuditShark:** A multi-module surveillance system with plugins for safety compliance and traffic management using YOLO and Florence-2.
-- **OpenClaw/NemoClaw:** A portable desktop wrapper for local LLM inference with multi-model support (Qwen, Minimax, Gemma).
+#### 📈 Data Pipelines & Finance
+- **[Nifty-50-Live-Pulse](https://github.com/Sane219/Nifty-50-Live-Pulse-Real-Time-Market-Data-Pipeline)**: Real-time market data pipeline architecture.
+- **[Nifty-500-predictions](https://github.com/Sane219/Nifty-500-predictions)**: A deep learning model using LSTM neural networks analyzing 5 years of historical data to predict the top 10 most profitable stocks.
+- **[TAXBOT](https://github.com/Sane219/TAXBOT)**: An AI-powered Indian Income Tax Assistant built with Streamlit for tax calculation and planning.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-**Languages:** Python • TypeScript/JavaScript • Bash/Shell • SQL • YAML  
-**AI & Vision:** Local LLMs (Ollama, vLLM) • YOLO • Florence-2 • GroundingDINO  
-**Backend & Cloud:** Node.js • NestJS • FastAPI • Docker • Kubernetes (Rancher)  
-**Frontend:** React • Next.js • Tailwind CSS • Electron  
-**Workflow:** n8n • GitHub Actions • VS Code (WSL)  
+**Languages:** Python • TypeScript/JavaScript • SQL  
+**AI & ML:** TensorFlow • Keras • LLMs (vLLM, Ollama) • MediaPipe • RAG Pipelines  
+**Backend & Data:** FastAPI • Node.js • Streamlit • Jupyter • Pandas/NumPy  
+**Frontend:** React • Tailwind CSS  
 
 ---
 
