@@ -179,53 +179,15 @@ developer-experience space.
 
 ## 🧬 Languages I think in
 
-<!-- Custom inline SVG with animated progress bars -->
-<svg width="560" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" role="img" aria-label="Language proficiency">
-  <style>
-    .label { font: 600 14px 'JetBrains Mono', ui-monospace, monospace; fill: #E2E8F0; }
-    .pct   { font: 500 12px 'JetBrains Mono', ui-monospace, monospace; fill: #94A3B8; }
-  </style>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sane219/Sane219/main/assets/languages.svg"
+    alt="Language proficiency: Python 95%, TypeScript 90%, SQL 80%, Go 60%, Rust 40%"
+    width="560"
+  />
+</p>
 
-  <!-- Python -->
-  <text x="0" y="20" class="label">Python</text>
-  <rect x="120" y="10" width="380" height="14" rx="7" fill="#1E293B"/>
-  <rect x="120" y="10" width="361" height="14" rx="7" fill="#10B981">
-    <animate attributeName="width" from="0" to="361" dur="1.4s" begin="0.0s" fill="freeze"/>
-  </rect>
-  <text x="540" y="20" class="pct" text-anchor="end">95%</text>
-
-  <!-- TypeScript -->
-  <text x="0" y="55" class="label">TypeScript</text>
-  <rect x="120" y="45" width="380" height="14" rx="7" fill="#1E293B"/>
-  <rect x="120" y="45" width="342" height="14" rx="7" fill="#10B981">
-    <animate attributeName="width" from="0" to="342" dur="1.4s" begin="0.15s" fill="freeze"/>
-  </rect>
-  <text x="540" y="55" class="pct" text-anchor="end">90%</text>
-
-  <!-- SQL -->
-  <text x="0" y="90" class="label">SQL</text>
-  <rect x="120" y="80" width="380" height="14" rx="7" fill="#1E293B"/>
-  <rect x="120" y="80" width="304" height="14" rx="7" fill="#10B981">
-    <animate attributeName="width" from="0" to="304" dur="1.4s" begin="0.30s" fill="freeze"/>
-  </rect>
-  <text x="540" y="90" class="pct" text-anchor="end">80%</text>
-
-  <!-- Go -->
-  <text x="0" y="125" class="label">Go</text>
-  <rect x="120" y="115" width="380" height="14" rx="7" fill="#1E293B"/>
-  <rect x="120" y="115" width="228" height="14" rx="7" fill="#10B981">
-    <animate attributeName="width" from="0" to="228" dur="1.4s" begin="0.45s" fill="freeze"/>
-  </rect>
-  <text x="540" y="125" class="pct" text-anchor="end">60%</text>
-
-  <!-- Rust -->
-  <text x="0" y="160" class="label">Rust</text>
-  <rect x="120" y="150" width="380" height="14" rx="7" fill="#1E293B"/>
-  <rect x="120" y="150" width="152" height="14" rx="7" fill="#A7F3D0">
-    <animate attributeName="width" from="0" to="152" dur="1.4s" begin="0.60s" fill="freeze"/>
-  </rect>
-  <text x="540" y="160" class="pct" text-anchor="end">40%</text>
-</svg>
+<div align="center"><sub>self-assessed · last updated when I last shipped something in it</sub></div>
 
 ---
 
