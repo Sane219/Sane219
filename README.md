@@ -11,7 +11,7 @@
 <!-- HEADER                                                         -->
 <!-- ============================================================== -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:064E3B,60:065F46,100:10B981&text=HEY%20THERE%20%F0%9F%91%8B&fontSize=84&fontColor=FFFFFF&fontAlignY=40&desc=I%27m%20Sanket%20Chauhan%20%E2%80%94%20AI%2FML%20Engineer%20%26%20Open%20Source%20Builder&descSize=18&descColor=A7F3D0&descAlignY=72&animation=fadeIn&v=2"
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:064E3B,60:065F46,100:10B981&text=HEY%20THERE%20%F0%9F%91%8B&fontSize=84&fontColor=FFFFFF&fontAlignY=40&desc=I%27m%20Sanket%20Chauhan%20%E2%80%94%20AI%2FML%20Engineer%20%E2%80%94%20Open%20Source%20Builder&descSize=18&descColor=A7F3D0&descAlignY=72&animation=fadeIn&v=2"
   width="100%"
   alt="Header"
 />
