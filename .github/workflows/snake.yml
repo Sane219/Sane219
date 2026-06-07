@@ -1,0 +1,53 @@
+name: Generate snake animation
+
+on:
+  # Run on every push to main. schedule is the safety net for a missed run.
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # Once per day at 04:00 UTC — cheap, idempotent.
+    - cron: "0 4 * * *"
+
+# The snake generator pushes SVG to a sibling branch called `output`.
+# This is the recommended pattern for Platane/snk on a profile repo.
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate contribution-snake.svg
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Use the upstream action. It writes SVG files into a separate
+      # `output` branch which the README's <picture> tag pulls from.
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          # GitHub username (must be the lowercased profile handle).
+          github_user_name: ${{ github.repository_owner }}
+          # Outputs go to the `output` branch (created automatically).
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          # Both color schemes so the <picture> tag works in light + dark mode.
+          palette: |
+            github-light
+            github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_files: true
+          # We don't need gh-pages deploy; we just want the files on `output`.
+          deploy: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
