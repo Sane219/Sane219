@@ -84,7 +84,7 @@ developer-experience space.
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,sql,bash&theme=dark&v=2" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,tailwind,postgres,redis,docker,kubernetes,githubactions&theme=dark&v=2" alt="Frameworks & infra"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,tailwind,postgres,redis,docker,kubernetes,githubactions&theme=dark&v=2" alt="Frameworks &amp; infra"/>
 </p>
 
 ### ML / Data
