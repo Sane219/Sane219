@@ -1,279 +1,309 @@
+<!--
+  Hello, fellow developer! 👋
+  If you found this profile, you might enjoy my open source work at:
+  → https://github.com/Sane219/meeting-copilot
+  → https://github.com/Sane219
+-->
+
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:064E3B,100:10B981&height=220&section=header&text=Sanket%20Chauhan&fontSize=46&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=AI%2FML%20Engineer%20%C2%B7%20Agent%20Builder%20%C2%B7%20India&descSize=18&descColor=A7F3D0&descAlignY=62&animation=fadeIn"
-    width="100%"
-    alt="header"
-  />
-
-  <br/>
-
-  <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=false&width=720&height=70&lines=Building%20agentic%20systems%20with%20local%20LLMs;RAG%20pipelines%20%E2%80%94%20from%20chunking%20to%20eval;Computer%20vision%20for%20real-world%20products;Full-stack%20developer%20%7C%20FastAPI%20%E2%80%A2%20Next.js;Self-hosting%20beats%20managed%20every%20time">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=false&width=720&height=70&lines=Building%20agentic%20systems%20with%20local%20LLMs;RAG%20pipelines%20%E2%80%94%20from%20chunking%20to%20eval;Computer%20vision%20for%20real-world%20products;Full-stack%20developer%20%7C%20FastAPI%20%E2%80%A2%20Next.js;Self-hosting%20beats%20managed%20every%20time"
-      alt="typing"
-    />
-  </a>
-
-  <br/>
-
-  <a href="https://sane219.github.io/sanket-chauhan-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sanket-chauhan-2b8511285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sanketchauhan0987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Sane219?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  </a>
-
-</div>
+<!-- ============================================================== -->
+<!-- HEADER                                                         -->
+<!-- ============================================================== -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:064E3B,60:065F46,100:10B981&text=HEY%20THERE%20%F0%9F%91%8B&fontSize=84&fontColor=FFFFFF&fontAlignY=40&desc=I%27m%20Sanket%20Chauhan%20%E2%80%94%20AI%2FML%20Engineer%20%26%20Open%20Source%20Builder&descSize=18&descColor=A7F3D0&descAlignY=72&animation=fadeIn&v=2"
+  width="100%"
+  alt="Header"
+/>
 
 <br/>
 
----
+<!-- ============================================================== -->
+<!-- TYPING BANNER                                                  -->
+<!-- ============================================================== -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI%20%2F%20ML%20Engineer%20%F0%9F%A4%96;Building%20local-first%20AI%20%F0%9F%9A%80;Open%20source%20contributor%20%F0%9F%8C%8D;Always%20learning%2C%20always%20shipping%20%E2%9C%A8&v=2"
+  alt="Typing banner"
+/>
 
-### 👋 About me
+<br/>
 
-I'm an engineer building **production-grade AI systems** — agent loops that
-actually run, RAG pipelines that don't hallucinate, and full-stack apps that
-put them in front of real users. I'm based in India, ship to public repos
-by default, and care a lot about the gap between "works in a notebook" and
-"runs in production at 3am without paging me".
-
-- 🔭 Currently building: **SyntaxAgent** (a self-hosted, free AI code
-  reviewer) and **Meeting Copilot** (a local-first agent that turns
-  meetings into action items — no cloud, no paid APIs).
-- 🌱 Deepening: **LangGraph state machines**, **local LLM serving**
-  (Ollama, vLLM, llama.cpp), and **on-device speech** (faster-whisper,
-  pyannote).
-- 🧠 Strongest in: Python · TypeScript · PyTorch · FastAPI · Next.js ·
-  Postgres · Docker.
-- 💬 Ask me about: building agentic systems, RAG retrieval eval,
-  speaker diarization, or what NOT to do with a small GPU.
-- 📫 Reach me: [sanketchauhan0987@gmail.com](mailto:sanketchauhan0987@gmail.com)
-  or open an issue on any of my repos.
-
----
-
-### 🛠️ Stack
-
-<div align="center">
-
-  **Languages**
-
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql,swift&theme=dark" alt="languages"/>
-
-  **AI / ML**
-
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="ai/ml"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Ollama-10B981?style=for-the-badge&logo=ollama&logoColor=white" alt="ollama"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph"/>
-  <img src="https://img.shields.io/badge/vLLM-2C3E50?style=for-the-badge&logo=v&logoColor=white" alt="vllm"/>
-
-  **Backend & Data**
-
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,express,postgres,redis,docker,kubernetes,nginx&theme=dark" alt="backend"/>
-
-  **Frontend & Tooling**
-
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,git,github,vscode,linux&theme=dark" alt="frontend"/>
+<!-- ============================================================== -->
+<!-- HERO STATS                                                     -->
+<!-- ============================================================== -->
+<p>
+  <a href="https://github.com/Sane219">
+    <img src="https://komarev.com/ghpvc/?username=Sane219&label=Profile%20Views&color=10B981&style=flat&v=2" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/Sane219?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sane219?style=flat&logo=github&color=10B981&labelColor=0F172A&v=2" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Sane219?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/Sane219?style=flat&logo=github&color=10B981&labelColor=0F172A&v=2" alt="Total stars"/>
+  </a>
+  <a href="https://github.com/Sane219/meeting-copilot">
+    <img src="https://img.shields.io/badge/featured-meeting--copilot-10B981?style=flat&logo=github&labelColor=0F172A&v=2" alt="Featured project"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 📊 GitHub stats
+## 🧑‍💻 About me
 
-<div align="center">
+```text
+$ whoami
+Sanket Chauhan
+$ cat interests.txt
+agents/  llm-systems/  dev-tools/  open-source/  devrel/
+$ uptime
+building in public since 2022
+```
 
+I'm an **AI/ML engineer** passionate about *local-first intelligent systems*. I design,
+build, and ship tools that turn raw audio, messy notes, and dense documents into
+structured, retrievable, decision-ready artifacts — all running on commodity
+hardware.
+
+Currently I lead the **agentic systems** track at work, where I design and ship
+production LLM pipelines, evaluation harnesses, and human-in-the-loop review tools.
+I also maintain a handful of open-source projects in the AI tooling and
+developer-experience space.
+
+- 🔭 **Working on:** local-first LLM tooling, agent orchestration, RAG over long-form audio
+- 🌱 **Learning:** Rust, vector search internals, DSPy / GEPA prompt evolution
+- 💬 **Ask me about:** LangGraph, Postgres + pgvector, Whisper, prompt engineering
+- ⚡ **Fun fact:** my favorite PRs are the ones that delete more lines than they add
+
+---
+
+## 🛠️ Tech I think in
+
+### Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,sql,bash&theme=dark&v=2" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,tailwind,postgres,redis,docker,kubernetes,githubactions&theme=dark&v=2" alt="Frameworks & infra"/>
+</p>
+
+### ML / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas,jupyter&theme=dark&v=2" alt="ML / data stack"/>
+</p>
+
+### AI / LLM specific
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=10B981&v=2" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=10B981&v=2" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=10B981&v=2" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=10B981&v=2" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=10B981&v=2" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000&v=2" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=10B981&v=2" alt="pgvector"/>
+  <img src="https://img.shields.io/badge/faster--whisper-FF6F00?style=for-the-badge&logo=python&logoColor=white&v=2" alt="faster-whisper"/>
+  <img src="https://img.shields.io/badge/pyannote--audio-00A98F?style=for-the-badge&logo=python&logoColor=white&v=2" alt="pyannote"/>
+</p>
+
+### Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,git,github,gitlab,linux,arch,ubuntu&theme=dark&v=2" alt="Tools"/>
+</p>
+
+---
+
+## 📊 By the numbers
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sane219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=10B981&icon_color=10B981&text_color=E2E8F0&count_private=true&include_all_commits=true&rank_icon=github&v=1"
-    height="170"
+    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sane219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=10B981&icon_color=10B981&text_color=E2E8F0&count_private=true&include_all_commits=true&rank_icon=github&animation=fadeIn&v=2"
     alt="GitHub stats"
   />
+  &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sane219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=E2E8F0&langs_count=8&exclude_repo=&hide=jupyter%20notebook,html&v=1"
-    height="170"
+    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sane219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=E2E8F0&langs_count=8&hide=jupyter%20notebook,html&v=2"
     alt="Top languages"
   />
-  <br/>
+</p>
+
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Sane219&theme=tokyonight&hide_border=true&background=0F172A&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&dates=E2E8F0&v=1"
+    src="https://streak-stats.demolab.com/?user=Sane219&theme=tokyonight&hide_border=true&background=0F172A&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&dates=E2E8F0&v=2"
     alt="Streak stats"
   />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
+<p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Sane219&theme=tokyonight&no-frame=true&column=4&margin-w=6&margin-h=6&v=1"
+    src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Sane219&theme=tokyonight&no-frame=true&column=4&margin-w=6&margin-h=6&v=2"
     alt="Trophies"
   />
-</div>
+</p>
 
 ---
 
-### 🚀 Featured projects
+## 🔭 What I'm hacking on right now
 
-> Pinned repos aren't available on the public API, so these are hand-picked
-> from my public work. Click through for the architecture, the code, and
-> the honest list of things that don't work yet.
-
-<table>
+<table align="center" cellpadding="10">
   <tr>
-    <td width="50%" valign="top">
-
-#### 🤖 [Meeting Copilot](https://github.com/Sane219/meeting-copilot)
-**Local-first agent that turns meetings into action items.**
-
-Chrome MV3 extension captures tab audio → FastAPI/LangGraph backend
-transcribes (faster-whisper), diarizes (pyannote), and extracts
-decisions/action items/blockers/questions with **phi-4-mini via Ollama**
-on a 6 GB RAM host. Next.js 15 dashboard streams the live transcript.
-
-`python` `langgraph` `faster-whisper` `ollama` `nextjs15` `chrome-extension`
-
+    <td align="center" width="33%" valign="top">
+      <div style="font-size:48px;line-height:1">🤖</div>
+      <b>Agentic Meeting Copilot</b><br/>
+      <sub>Local-first LLM agent that turns meeting audio into structured decisions, action items, and a queryable knowledge base.</sub><br/><br/>
+      <sub>🐍 Python · ⚡ FastAPI · 🧠 LangGraph · 🎙️ Whisper</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Active%20Development-10B981?style=flat-square&v=2" alt="Status: Active Development"/>
+      &nbsp;<a href="https://github.com/Sane219/meeting-copilot">⭐ Star</a>
     </td>
-    <td width="50%" valign="top">
-
-#### 🛠️ [SyntaxAgent](https://github.com/Sane219/SyntaxAgent)
-**Self-hosted AI code review agent — 100% free.**
-
-Listens to GitHub PR webhooks via NestJS, runs static analysis, and
-generates contextual feedback through a self-hosted LLM. No
-SaaS, no per-PR pricing, no data leaving your infra.
-
-`python` `nestjs` `typescript` `vllm` `github-actions`
-
+    <td align="center" width="33%" valign="top">
+      <div style="font-size:48px;line-height:1">🧪</div>
+      <b>Eval Harnesses for RAG</b><br/>
+      <sub>Open-source framework for evaluating RAG pipelines end-to-end — retrieval, generation, grounding, hallucination.</sub><br/><br/>
+      <sub>🐍 Python · 📊 Pandas · 📈 W&amp;B</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Designing-3B82F6?style=flat-square&v=2" alt="Status: Designing"/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🔒 [OmniVault](https://github.com/Sane219/OmniVault)
-**Multi-tenant multimodal AI SaaS in production.**
-
-Secure, multi-tenant platform built on **Robyn** (Rust-backed Python
-web framework) and **EdgeDB**. Handles auth, storage, and
-inference-routing for vision + text workloads. Live at
-<https://omni-vault-web.vercel.app>.
-
-`typescript` `nextjs` `edgedb` `robyn` `saas`
-
-    </td>
-    <td width="50%" valign="top">
-
-#### 🚀 [ForgeOps](https://github.com/Sane219/ForgeOps)
-**Self-service DevOps portal.**
-
-Service templates → policy-checked Kubernetes + ArgoCD artifacts, with
-cost estimation and AI rollout analysis. Built to be the missing
-paved road between "I have a Dockerfile" and "we ship ten times a day".
-
-`html` `kubernetes` `argocd` `devops` `iac`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 📚 [RAD Knowledge Assistant](https://github.com/Sane219/RAD-Knowledge-Assistant)
-**RAG that doesn't hallucinate (much).**
-
-Retrieval-Augmented Generation system in Python that answers user
-queries from private document collections. Focuses on the boring parts
-that matter: chunking, retrieval eval, prompt isolation, source
-grounding.
-
-`python` `rag` `llm` `embeddings` `vector-db`
-
-    </td>
-    <td width="50%" valign="top">
-
-#### 📈 [Nifty-50 Live Pulse](https://github.com/Sane219/Nifty-50-Live-Pulse-Real-Time-Market-Data-Pipeline)
-**Real-time market data pipeline.**
-
-End-to-end architecture for streaming Nifty-50 quotes — ingestion,
-transformation, and a consumer-friendly analytics surface. Built as a
-real engineering exercise, not a toy.
-
-`data-pipeline` `streaming` `analytics` `python`
-
+    <td align="center" width="33%" valign="top">
+      <div style="font-size:48px;line-height:1">💻</div>
+      <b>DevX CLI</b><br/>
+      <sub>A small, fast CLI that wraps our team's go-to commands: scaffold, lint, test, deploy, log a standup.</sub><br/><br/>
+      <sub>🦀 Rust · 📦 Cargo</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Side%20Quest-F59E0B?style=flat-square&v=2" alt="Status: Side Quest"/>
     </td>
   </tr>
 </table>
 
+> 💡 *Want to follow along? Star the repos — they get commits most weeks.*
+
 ---
 
-### 📈 Activity
+## 🧬 Languages I think in
+
+<!-- Custom inline SVG with animated progress bars -->
+<svg width="560" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" role="img" aria-label="Language proficiency">
+  <style>
+    .label { font: 600 14px 'JetBrains Mono', ui-monospace, monospace; fill: #E2E8F0; }
+    .pct   { font: 500 12px 'JetBrains Mono', ui-monospace, monospace; fill: #94A3B8; }
+  </style>
+
+  <!-- Python -->
+  <text x="0" y="20" class="label">Python</text>
+  <rect x="120" y="10" width="380" height="14" rx="7" fill="#1E293B"/>
+  <rect x="120" y="10" width="361" height="14" rx="7" fill="#10B981">
+    <animate attributeName="width" from="0" to="361" dur="1.4s" begin="0.0s" fill="freeze"/>
+  </rect>
+  <text x="540" y="20" class="pct" text-anchor="end">95%</text>
+
+  <!-- TypeScript -->
+  <text x="0" y="55" class="label">TypeScript</text>
+  <rect x="120" y="45" width="380" height="14" rx="7" fill="#1E293B"/>
+  <rect x="120" y="45" width="342" height="14" rx="7" fill="#10B981">
+    <animate attributeName="width" from="0" to="342" dur="1.4s" begin="0.15s" fill="freeze"/>
+  </rect>
+  <text x="540" y="55" class="pct" text-anchor="end">90%</text>
+
+  <!-- SQL -->
+  <text x="0" y="90" class="label">SQL</text>
+  <rect x="120" y="80" width="380" height="14" rx="7" fill="#1E293B"/>
+  <rect x="120" y="80" width="304" height="14" rx="7" fill="#10B981">
+    <animate attributeName="width" from="0" to="304" dur="1.4s" begin="0.30s" fill="freeze"/>
+  </rect>
+  <text x="540" y="90" class="pct" text-anchor="end">80%</text>
+
+  <!-- Go -->
+  <text x="0" y="125" class="label">Go</text>
+  <rect x="120" y="115" width="380" height="14" rx="7" fill="#1E293B"/>
+  <rect x="120" y="115" width="228" height="14" rx="7" fill="#10B981">
+    <animate attributeName="width" from="0" to="228" dur="1.4s" begin="0.45s" fill="freeze"/>
+  </rect>
+  <text x="540" y="125" class="pct" text-anchor="end">60%</text>
+
+  <!-- Rust -->
+  <text x="0" y="160" class="label">Rust</text>
+  <rect x="120" y="150" width="380" height="14" rx="7" fill="#1E293B"/>
+  <rect x="120" y="150" width="152" height="14" rx="7" fill="#A7F3D0">
+    <animate attributeName="width" from="0" to="152" dur="1.4s" begin="0.60s" fill="freeze"/>
+  </rect>
+  <text x="540" y="160" class="pct" text-anchor="end">40%</text>
+</svg>
+
+---
+
+## ✍️ Dev philosophy
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sane219&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&color=10B981&line=10B981&point=FFFFFF&area_color=10B981&v=1"
-    width="95%"
-    alt="Contribution graph"
-  />
+
+> **Boring tech. Sharp tools. Honest systems.**
+>
+> I prefer the obvious solution that works today over the clever one that needs a comment to explain.
+>
+> *Local-first by default.* The cloud is a backup, not a source of truth.
+>
+> If it's not in version control, it doesn't exist.
+
 </div>
 
-<br/>
+---
 
-<div align="center">
+## 📚 Currently reading
+
+- 📘 *Designing Data-Intensive Applications* — Martin Kleppmann
+- 📗 *LLM Engineer's Handbook* — Paul Iusztin, Maxime Labonne
+- 📕 *Hands-On Large Language Models* — Jay Alammar, Maarten Grootendorst
+- 📙 *Database Internals* — Alex Petrov *(in progress)*
+
+---
+
+## 🐍 Contribution snake
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sane219/Sane219/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sane219/Sane219/output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sane219/Sane219/output/github-contribution-grid-snake.svg"/>
   </picture>
-</div>
+</p>
 
 ---
 
-### 🤝 Currently
+## 📈 Contribution graph
 
-- 🧪 Experimenting with **Whisper + pyannote** for low-RAM streaming
-  diarization on AMD APU hardware.
-- 📦 Shipping a **Postgres-backed LangGraph checkpointer** so agent
-  state survives restarts.
-- ✍️ Writing notes on what I've learned shipping local-first AI
-  products in production.
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sane219&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&color=10B981&line=10B981&point=FFFFFF&area_color=10B981&v=2"
+    alt="Contribution graph"
+  />
+</p>
 
 ---
 
-### 📫 Connect
+## 🌐 Find me
 
-<div align="center">
-
-  <a href="https://sane219.github.io/sanket-chauhan-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+<p align="center">
+  <a href="https://github.com/Sane219">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=10B981&v=2" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/sanket-chauhan-2b8511285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sane219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn"/>
   </a>
   <a href="mailto:sanketchauhan0987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&v=2" alt="Email"/>
   </a>
-
-</div>
+  <a href="https://sane219.dev">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white&v=2" alt="Portfolio"/>
+  </a>
+</p>
 
 <br/>
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:10B981,100:0F172A&section=footer&animation=fadeIn&v=2"
+  width="100%"
+  alt="Footer"
+/>
+
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Sane219&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Sane219?color=10b981&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
+<sub>✨ Thanks for stopping by — now go ship something.</sub>
 
 </div>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0F172A&height=120&section=footer&animation=fadeIn"
-  width="100%"
-  alt="footer"
-/>
